@@ -1,6 +1,6 @@
 ## JugglingSwap
 
-A scriptless _atomic cross-chain (and cross-curve) swap_ protocol based on threshold-signatures. See [paper](https://arxiv.org/abs/2007.14423).
+A scriptless _atomic cross-chain (and cross-curve) swap_ protocol based on a fair exchange of secrets and threshold-signatures. See [paper](https://arxiv.org/abs/2007.14423).
 Demonstrating a BTC/ETH swap.
 
 ### Installation
