@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "./dist/types",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "composite": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "demo"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
