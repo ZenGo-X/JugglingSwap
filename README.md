@@ -107,3 +107,8 @@ These transactions complete the cross-chains atomic-swap between the parties.
 
  |![Demo](https://raw.githubusercontent.com/KZen-networks/JugglingSwap/master/demo.gif "Bitcoin & Ethereum Atomic Cross Chain Swap")|
  |:--:|
+
+
+## Contact
+
+Feel free to [reach out](mailto:github@kzencorp.com) or join ZenGo X [Telegram](https://t.me/zengo_x) for discussions on code and research.
